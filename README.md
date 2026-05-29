@@ -33,7 +33,7 @@ This is the offensive side of cybersecurity: not defence, but deception.
 
 ## Demo — see MIRAX trap a hacker live (Full HD)
 
-<video src="https://github.com/Danish-spidy/mirax-showcase/raw/main/demo/MIRAX_demo.mp4" controls width="100%"></video>
+https://github.com/user-attachments/assets/2fe6de4a-df77-4a92-8e70-714a86acc8e7
 
 ![Hero — Aetheris Dynamics fake landing](docs/hero.png)
 
